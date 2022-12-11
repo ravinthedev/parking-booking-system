@@ -1,0 +1,288 @@
+{
+    "_id" : ObjectId("639654d049aaac1014caad4c"),
+    "area" : 1.0,
+    "location" : 1.0,
+    "spot" : 1.0
+}
+{
+    "_id" : ObjectId("639654d549aaac1014caad4d"),
+    "area" : 1.0,
+    "location" : 2.0,
+    "spot" : 2.0
+}
+{
+    "_id" : ObjectId("639654df49aaac1014caad4e"),
+    "area" : 1.0,
+    "location" : 3.0,
+    "spot" : 3.0
+}
+{
+    "_id" : ObjectId("639654e749aaac1014caad4f"),
+    "area" : 1.0,
+    "location" : 4.0,
+    "spot" : 4.0
+}
+{
+    "_id" : ObjectId("639654ed49aaac1014caad50"),
+    "area" : 1.0,
+    "location" : 5.0,
+    "spot" : 5.0
+}
+{
+    "_id" : ObjectId("639654f249aaac1014caad51"),
+    "area" : 1.0,
+    "location" : 6.0,
+    "spot" : 6.0
+}
+{
+    "_id" : ObjectId("639654fc49aaac1014caad52"),
+    "area" : 1.0,
+    "location" : 7.0,
+    "spot" : 7.0
+}
+{
+    "_id" : ObjectId("6396550149aaac1014caad53"),
+    "area" : 1.0,
+    "location" : 8.0,
+    "spot" : 8.0
+}
+{
+    "_id" : ObjectId("6396550549aaac1014caad54"),
+    "area" : 1.0,
+    "location" : 9.0,
+    "spot" : 9.0
+}
+{
+    "_id" : ObjectId("6396550a49aaac1014caad55"),
+    "area" : 1.0,
+    "location" : 10.0,
+    "spot" : 10.0
+}
+{
+    "_id" : ObjectId("6396550e49aaac1014caad56"),
+    "area" : 1.0,
+    "location" : 11.0,
+    "spot" : 11.0
+}
+{
+    "_id" : ObjectId("6396551249aaac1014caad57"),
+    "area" : 1.0,
+    "location" : 12.0,
+    "spot" : 12.0
+}
+{
+    "_id" : ObjectId("6396551749aaac1014caad58"),
+    "area" : 1.0,
+    "location" : 13.0,
+    "spot" : 13.0
+}
+{
+    "_id" : ObjectId("6396551b49aaac1014caad59"),
+    "area" : 1.0,
+    "location" : 14.0,
+    "spot" : 14.0
+}
+{
+    "_id" : ObjectId("6396552849aaac1014caad5a"),
+    "area" : 1.0,
+    "location" : 15.0,
+    "spot" : 15.0
+}
+{
+    "_id" : ObjectId("6396552c49aaac1014caad5b"),
+    "area" : 1.0,
+    "location" : 16.0,
+    "spot" : 16.0
+}
+{
+    "_id" : ObjectId("6396557249aaac1014caad5c"),
+    "area" : 2.0,
+    "location" : 1.0,
+    "spot" : 1.0
+}
+{
+    "_id" : ObjectId("6396557a49aaac1014caad5d"),
+    "area" : 2.0,
+    "location" : 2.0,
+    "spot" : 2.0
+}
+{
+    "_id" : ObjectId("6396557f49aaac1014caad5e"),
+    "area" : 2.0,
+    "location" : 3.0,
+    "spot" : 3.0
+}
+{
+    "_id" : ObjectId("6396558349aaac1014caad5f"),
+    "area" : 2.0,
+    "location" : 4.0,
+    "spot" : 4.0
+}
+{
+    "_id" : ObjectId("6396558c49aaac1014caad60"),
+    "area" : 2.0,
+    "location" : 5.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396559549aaac1014caad61"),
+    "area" : 2.0,
+    "location" : 6.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396559c49aaac1014caad62"),
+    "area" : 2.0,
+    "location" : 7.0,
+    "spot" : 5.0
+}
+{
+    "_id" : ObjectId("639655a249aaac1014caad63"),
+    "area" : 2.0,
+    "location" : 8.0,
+    "spot" : 6.0
+}
+{
+    "_id" : ObjectId("639655a949aaac1014caad64"),
+    "area" : 2.0,
+    "location" : 9.0,
+    "spot" : 7.0
+}
+{
+    "_id" : ObjectId("639655b049aaac1014caad65"),
+    "area" : 2.0,
+    "location" : 10.0,
+    "spot" : 8.0
+}
+{
+    "_id" : ObjectId("639655ba49aaac1014caad66"),
+    "area" : 2.0,
+    "location" : 11.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("639655bf49aaac1014caad67"),
+    "area" : 2.0,
+    "location" : 12.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("639655c949aaac1014caad68"),
+    "area" : 2.0,
+    "location" : 13.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("639655d049aaac1014caad69"),
+    "area" : 2.0,
+    "location" : 14.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("639655d949aaac1014caad6a"),
+    "area" : 2.0,
+    "location" : 15.0,
+    "spot" : 9.0
+}
+{
+    "_id" : ObjectId("639655df49aaac1014caad6b"),
+    "area" : 2.0,
+    "location" : 16.0,
+    "spot" : 10.0
+}
+{
+    "_id" : ObjectId("6396563e49aaac1014caad6c"),
+    "area" : 3.0,
+    "location" : 1.0,
+    "spot" : 1.0
+}
+{
+    "_id" : ObjectId("6396564249aaac1014caad6d"),
+    "area" : 3.0,
+    "location" : 2.0,
+    "spot" : 2.0
+}
+{
+    "_id" : ObjectId("6396564649aaac1014caad6e"),
+    "area" : 3.0,
+    "location" : 3.0,
+    "spot" : 3.0
+}
+{
+    "_id" : ObjectId("6396564b49aaac1014caad6f"),
+    "area" : 3.0,
+    "location" : 4.0,
+    "spot" : 4.0
+}
+{
+    "_id" : ObjectId("6396565549aaac1014caad70"),
+    "area" : 3.0,
+    "location" : 5.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396565849aaac1014caad71"),
+    "area" : 3.0,
+    "location" : 6.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396565a49aaac1014caad72"),
+    "area" : 3.0,
+    "location" : 7.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396566449aaac1014caad73"),
+    "area" : 3.0,
+    "location" : 8.0,
+    "spot" : 5.0
+}
+{
+    "_id" : ObjectId("6396567049aaac1014caad74"),
+    "area" : 3.0,
+    "location" : 9.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396567649aaac1014caad75"),
+    "area" : 3.0,
+    "location" : 10.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396567849aaac1014caad76"),
+    "area" : 3.0,
+    "location" : 11.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396568149aaac1014caad77"),
+    "area" : 3.0,
+    "location" : 12.0,
+    "spot" : 6.0
+}
+{
+    "_id" : ObjectId("6396568949aaac1014caad78"),
+    "area" : 3.0,
+    "location" : 13.0,
+    "spot" : 7.0
+}
+{
+    "_id" : ObjectId("6396569649aaac1014caad79"),
+    "area" : 3.0,
+    "location" : 14.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396569949aaac1014caad7a"),
+    "area" : 3.0,
+    "location" : 15.0,
+    "spot" : null
+}
+{
+    "_id" : ObjectId("6396569f49aaac1014caad7b"),
+    "area" : 3.0,
+    "location" : 16.0,
+    "spot" : 8.0
+}

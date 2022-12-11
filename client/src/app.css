@@ -1,0 +1,27 @@
+.spot {
+    background-color: lightgray;
+    text-align: center;
+    vertical-align: middle;
+    padding: 40px 0;
+    position: relative;
+}
+.booked {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+
+}
+.selected {
+    background-color: black;
+}
+.menu-item {
+    font-weight: 600;
+    border:1px solid black;
+    padding: 10px 20px;
+
+}
+.menu-item:hover, .active {
+   color:white;
+   background-color: black;
+}

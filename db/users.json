@@ -1,0 +1,9 @@
+{
+    "_id" : ObjectId("639659dbaa113960f9302041"),
+    "name" : "user-1",
+    "email" : "user-1@parkingapp.com",
+    "password" : "$2a$10$Jn5VS09yGTkrNYAc0P8ZY.lC/nPgo906O6dLPYbzkjUoIkXRuFEoi",
+    "createdAt" : ISODate("2022-12-11T22:29:47.830+0000"),
+    "updatedAt" : ISODate("2022-12-11T22:29:47.830+0000"),
+    "__v" : NumberInt(0)
+}
