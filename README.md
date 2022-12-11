@@ -49,15 +49,13 @@ $ yarn # or npm i    // npm install packages
 $ npm start        // run it locally
 
 // deployment for client app
-$ npm run build // this will compile the react code using webpack and generate a folder called docs in the root level
+$ npm run build // this will compile the react code and generate a folder called build in the root level
 $ npm run start // this will run the files in docs, this behavior is exactly the same how gh-pages will run your static site
 ```
 
 ## Server-Side Usage(PORT: 8000)
 
-### Prepare Your Secret
-
-run the script at the first level:
+### Setting up Environemnt Variables
 
 (You need to check and properly set JWT_KEY, JWT_SECRET and MONGO_URI in .env to connect to MongoDB and etc.)
 
