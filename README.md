@@ -1,5 +1,5 @@
 <h1 align="center">
-🌐 Parking Booking System  - MERN Stack
+🚘 Parking Booking System  - MERN Stack
 </h1>
 <p align="center">
 MongoDB, Expressjs, React/Redux (TypeScript), Nodejs
@@ -61,10 +61,20 @@ run the script at the first level:
 
 (You need to check and properly set JWT_KEY, JWT_SECRET and MONGO_URI in .env to connect to MongoDB and etc.)
 
+
+### Import Database
+
+```terminal
+db/
+   spots.json (Containing all parking locations and spots for the given test requirements.
+   users.json (User account with the given user credentials)
+   /bson (This folder has the same data with the bson format)
+```
+
 ### Start
 
 ```terminal
-$ cd server   // go to server folder
+$ cd api   // go to api server folder
 $ npm i       // npm install packages
 $ npm run server // run it locally
 ```
@@ -73,7 +83,7 @@ $ npm run server // run it locally
 
 You can find full working demo version of this app at 
 ```javascript
-   <a href="http://15.206.123.52:3000/register">http://15.206.123.52:3000/register</a>
+   http://15.206.123.52:3000
 ```
 
 ## Author
